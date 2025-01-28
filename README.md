@@ -16,14 +16,6 @@ This repo can be used to scaffold a Laravel package. Follow these steps to get s
 <!--/delete-->
 This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
 
-## Support us
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/:package_name.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/:package_name)
-
-We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
-
-We highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using. You'll find our address on [our contact page](https://spatie.be/about-us). We publish all received postcards on [our virtual postcard wall](https://spatie.be/open-source/postcards).
-
 ## Installation
 
 You can install the package via composer:
@@ -91,3 +83,23 @@ Please review [our security policy](../../security/policy) on how to report secu
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+# Credits
+
+This project is based on the excellent [spatie/laravel-package-template](https://github.com/spatie/laravel-package-template) by [Spatie](https://github.com/spatie).
+
+It has been extended by [Iamdadmin](https://github.com/iamdadmin) under the name YAESPSL (Pronounced: YAE-SPACE-ELL), or Yet Another Extension to Spatie Package-Skeleton-Laravel to use
+another project by Iamdadmin called YAESLPT (Pronounced: YAY-SLIPPED), or Yet Another Extension to Spatie Laravel Package Tools.
+
+If you appreciate this project, I'd love a star, and I'd really appreciate if you also gave a star to the upstream Spatie projects, since without their work, this would not be possible.
+
+## Support Spatie's excellent work if you like these extensions
+
+[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/laravel-package-tools.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/laravel-package-tools)
+
+Spatie and co invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can
+support them by [buying one of our paid products](https://spatie.be/open-source/support-us).
+
+Spatie and co highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using.
+You'll find their address on [our contact page](https://spatie.be/about-us). They publish all received postcards
+on [our virtual postcard wall](https://spatie.be/open-source/postcards).

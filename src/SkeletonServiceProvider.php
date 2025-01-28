@@ -2,8 +2,8 @@
 
 namespace VendorName\Skeleton;
 
-use Spatie\LaravelPackageTools\Package;
-use Spatie\LaravelPackageTools\PackageServiceProvider;
+use Iamdadmin\Yaeslpt\Package;
+use Iamdadmin\Yaeslpt\PackageServiceProvider;
 use VendorName\Skeleton\Commands\SkeletonCommand;
 
 class SkeletonServiceProvider extends PackageServiceProvider
@@ -13,7 +13,7 @@ class SkeletonServiceProvider extends PackageServiceProvider
         /*
          * This class is a Package Service Provider
          *
-         * More info: https://github.com/spatie/laravel-package-tools
+         * More info: https://github.com/iamdadmin/yaespsl
          */
         $package
             ->name('skeleton')
